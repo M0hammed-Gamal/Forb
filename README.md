@@ -1,1 +1,1 @@
-<img src="images/readme.png" alt="Alt Text" width="500">
+<img src="images/readme.png" alt="Forb" width="500">
